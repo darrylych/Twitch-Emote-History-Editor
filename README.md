@@ -1,13 +1,13 @@
-# Twitch Emote History Editor
+# Twitch Frequently Used Emotes Manager
 
 **Chrome 擴充功能：Twitch 表情符號歷史紀錄編輯器**
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/YOUR_EXTENSION_ID_HERE?logo=chrome&logoColor=white&style=for-the-badge)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID_HERE)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/YOUR_EXTENSION_ID_HERE?logo=chrome&logoColor=white&style=for-the-badge)](https://chromewebstore.google.com/detail/twitch-frequently-used-em/amjnkamcoflpnldhdnnhegepggeienhl)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ## 簡介
 
-**Twitch Emote History Editor** 是一個 Chrome 瀏覽器擴充功能，旨在幫助使用者更方便地查看和管理在 Twitch 直播平台上使用的表情符號歷史紀錄。
+**Twitch Frequently Used Emotes Manager** 是一個 Chrome 瀏覽器擴充功能，旨在幫助使用者更方便地查看和管理在 Twitch 直播平台上使用的表情符號歷史紀錄。
 
 這個擴充功能會讀取 Twitch 網站儲存在瀏覽器 LocalStorage 中的表情符號使用紀錄，並以表格形式在擴充功能彈出視窗中呈現。  使用者可以輕鬆瀏覽所有使用過的表情符號、其名稱和使用次數，並且可以直接在擴充功能中編輯表情符號的 **使用次數** 值。
 
@@ -32,7 +32,7 @@
 4.  **載入未封裝擴充功能：**  點擊左上角的「**載入未封裝項目**」按鈕 (Edge為載入解壓縮)。
 5.  **選擇專案資料夾：**  在檔案瀏覽器中，選擇您下載或 Clone 的擴充功能專案資料夾，點擊「**選擇資料夾**」或「**確定**」。
 
-完成以上步驟後，**Twitch Emote History Editor** 擴充功能就會安裝到您的 Chrome 瀏覽器中了。
+完成以上步驟後，**Twitch Frequently Used Emotes Manager** 擴充功能就會安裝到您的 Chrome 瀏覽器中了。
 
 ## 使用方法
 
@@ -65,7 +65,7 @@
 
 *   **資料來源：**  本擴充功能讀取的資料來源為 Twitch 網站儲存在您瀏覽器 LocalStorage 中的 `twilight.emote_picker_history` 紀錄。
 *   **重新整理網頁：**  在清除歷史紀錄後，可能需要重新整理 Twitch 網頁才能完全生效。
-*   **非官方擴充功能：**  **Twitch Emote History Editor** 是一個非官方的個人專案，與 Twitch 公司沒有任何關聯，也不受 Twitch 官方認可或支援。  使用本擴充功能可能存在風險，請自行評估是否使用。
+*   **非官方擴充功能：**  **Twitch Frequently Used Emotes Manager** 是一個非官方的個人專案，與 Twitch 公司沒有任何關聯，也不受 Twitch 官方認可或支援。  使用本擴充功能可能存在風險，請自行評估是否使用。
 
 ## 授權條款
 
@@ -80,6 +80,6 @@
 
 您的贊助將是對我最大的鼓勵和支持，讓我更有動力持續開發和維護這個專案，提供更好的使用者體驗。非常感謝您的支持！
 
-**歡迎使用 Twitch Emote History Editor！**  
+**歡迎使用 Twitch Frequently Used Emotes Manager！**  
 
 如果您有任何問題、建議或發現 Bug，歡迎提出 Issue 或 Pull Request 或透過 [Discord (darrylych)](https://discord.com/users/536082876836610058) 聯絡我。
