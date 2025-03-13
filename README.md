@@ -1,4 +1,4 @@
-# Twitch Frequently Used Emotes Manager
+# Twitch Emote History Editor
 
 **Chrome 擴充功能：Twitch 表情符號歷史紀錄編輯器**
 
